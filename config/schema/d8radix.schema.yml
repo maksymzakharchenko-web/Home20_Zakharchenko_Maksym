@@ -1,0 +1,5 @@
+# Schema for the configuration files of the d8radix theme.
+
+d8radix.settings:
+  type: theme_settings
+  label: 'd8radix settings'

@@ -1,0 +1,10 @@
+style:
+  version: VERSION
+  css:
+    theme:
+      assets/css/d8radix.style.css: {}
+  js:
+    assets/js/d8radix.script.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
